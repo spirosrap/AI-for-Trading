@@ -6,8 +6,6 @@ This repository contains the solution to the projects.
 
 You should know that the content of the Nanodegrees changes often so some of the projects might be outdated. For the best experience, only read the solutions after completing them.
 
-![img](main.png)
-
 1. p1: Trading with Momentum
 2. p2: Breakout Strategy 
 3. p3: Smart Beta and Portfolio Optimization
@@ -16,3 +14,5 @@ You should know that the content of the Nanodegrees changes often so some of the
 6. p6: Sentiment Analysis with Neural Networks
 7. p7: Combining Signals for enhanced Alphas
 8. p8: Backtesting
+
+![img](main.png)
